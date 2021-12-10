@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "com.unity.barracuda": "2.0.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
+    "com.unity.barracuda": "2.0.0",
     "com.unity.cinemachine": "2.8.3",
     "com.unity.collab-proxy": "1.15.1",
     "com.unity.feature.development": "1.0.1",
@@ -11,6 +11,7 @@
     "com.unity.ide.vscode": "1.2.4",
     "com.unity.inputsystem": "1.1.1",
     "com.unity.probuilder": "5.0.3",
+    "com.unity.progrids": "3.0.3-preview.6",
     "com.unity.render-pipelines.universal": "12.1.1",
     "com.unity.terrain-tools": "4.0.3",
     "com.unity.test-framework": "1.1.29",
