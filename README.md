@@ -1,6 +1,7 @@
 # PlayerDetectionUsingYolo
 Set of lvls using yolo object detection for detecting player in game... work for Bachelors so don't copy too much
 uses unity hub and unity vs 2021.2.3f1
+
 1.It required to import files from this link onto Assets/Extra
 https://mega.nz/file/P4knzTJC#3IdaY7K2ZMbwfxjQVRjfLPtE5ft2QnWQtk8BJK2z3WA
 Just paste them
